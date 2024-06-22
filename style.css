@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(48, 60, 60);
+}
+
+.finB {
+    display: flex;
+    padding: 10px;
+    background-color: gray;
+    color: white;
+}
+
+.finC {
+    display: flex;
+    align-items: center;
+}
+
+.finD {
+    padding-left: 1300px;
+    justify-content: space-between;
+    display: flex;
+    gap: 8
+}
+
+.pical {
+    margin-top: 20px;
+    width: 350px;
+    height: 240px;
+    margin-left: 22px;
+}
+
+.fin2 {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.vid1{
+
+}
+
